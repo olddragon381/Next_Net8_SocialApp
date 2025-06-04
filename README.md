@@ -1,11 +1,11 @@
 # 🧠 Mạng Xã Hội
-![image-1](https://github.com/user-attachments/assets/4ff4964e-7fae-44b4-92fb-efc1a3899d93)
-![image](https://github.com/user-attachments/assets/d0ccaaec-aaf6-4c20-ba0a-533090744535)
-![image-4](https://github.com/user-attachments/assets/3868389b-bd89-4439-87f7-8b6a36ad4e89)
-![image-3](https://github.com/user-attachments/assets/8865efd9-d6a2-4306-b232-380f0adcf738)
-![image-2](https://github.com/user-attachments/assets/ee1ba22e-45ab-44a9-a767-850ca55580b1)
-![backend1](https://github.com/user-attachments/assets/9894c04e-a8b3-424a-83ca-5ac1805a7891)
-![backend2](https://github.com/user-attachments/assets/d16bec51-096e-42c0-bc4b-b3a1eceb021a)
+![backend1](https://github.com/user-attachments/assets/c3e59856-b3f3-460c-b6f1-0667bbac1963)
+![backend2](https://github.com/user-attachments/assets/83c21ad4-fb9e-495e-a4b1-39d16d4f27b2)
+![image](https://github.com/user-attachments/assets/8cd45151-8424-43b4-9428-61b6790eebca)
+![image-4](https://github.com/user-attachments/assets/8b176c32-9815-42a0-bdb8-2e3b96d919c9)
+![image-3](https://github.com/user-attachments/assets/e33200f5-5fbe-4f8a-93ac-5a6246b7beda)
+![image-2](https://github.com/user-attachments/assets/554f17ea-aa25-44a9-b60c-ff101ab853df)
+![image-1](https://github.com/user-attachments/assets/6597d06b-a61e-4e34-861d-9cc16208604a)
 
 
 
@@ -18,6 +18,7 @@ Công nghệ: ASP.Net API 8, NextJS, Tailwind, JWT, SignalR
 - 💬 Bình luận bài viết
 - 📌 Lưu hoặc bỏ lưu bài viết
 - 🗑️ Xoá bài viết của chính mình
+
 
 
 Hệ thống bao gồm:
