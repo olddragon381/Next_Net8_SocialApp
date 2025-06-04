@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+    "types": ["./next-auth", "./src/types/next-auth"]
+
+    },
+  }
+}

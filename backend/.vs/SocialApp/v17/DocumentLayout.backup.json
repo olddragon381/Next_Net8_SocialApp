@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\usecase\\notification\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\usecase\\notification\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\usecase\\post\\postusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\usecase\\post\\postusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\controllers\\savedpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\controllers\\savedpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\dtos\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\dtos\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.infrastructure\\repositories\\friendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|solutionrelative:socialapp.infrastructure\\repositories\\friendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\usecase\\notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\usecase\\notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\usecase\\friend\\friendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\usecase\\friend\\friendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\interfaces\\ifriendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\interfaces\\ifriendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|solutionrelative:socialapp.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\interfaces\\ifriendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\interfaces\\ifriendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\dtos\\friendrequestnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\dtos\\friendrequestnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\usecase\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\usecase\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\enums\\noficationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\enums\\noficationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\enums\\friendstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\enums\\friendstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.infrastructure\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|solutionrelative:socialapp.infrastructure\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\entities\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\entities\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\dtos\\unfrienddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\dtos\\unfrienddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E52E5B5-8737-4493-A097-E36F1B54DD49}|SocialApp.API\\SocialApp.API.csproj|solutionrelative:socialapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A58E94-3DDC-4D3F-8C4F-37564E6450E4}|SocialApp.Domain\\SocialApp.Domain.csproj|solutionrelative:socialapp.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|solutionrelative:socialapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.application\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7432BCD7-887C-4F01-851F-5BC2445AED3A}|SocialApp.Application\\SocialApp.Application.csproj|solutionrelative:socialapp.application\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|d:\\dddoan\\doanai\\react_dotnet_social\\backend\\socialapp.infrastructure\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9401EF-492F-45F8-88F4-CA41E4DEA668}|SocialApp.Infrastructure\\SocialApp.Infrastructure.csproj|solutionrelative:socialapp.infrastructure\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T15:19:40.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Dockerfile",
+              "RelativeDocumentMoniker": "SocialApp.API\\Dockerfile",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Dockerfile",
+              "RelativeToolTip": "SocialApp.API\\Dockerfile",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T15:17:06.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Program.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Program.cs",
+              "RelativeToolTip": "SocialApp.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:41:56.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SocialApp.API\\appsettings.Development.json",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "SocialApp.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T14:40:58.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialApp.API\\appsettings.json",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\appsettings.json",
+              "RelativeToolTip": "SocialApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T14:40:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Notification\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\UseCase\\Notification\\NotificationHub.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Notification\\NotificationHub.cs",
+              "RelativeToolTip": "SocialApp.Application\\UseCase\\Notification\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:14:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FriendRequestRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\FriendRequestRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Infrastructure\\Repositories\\FriendRequestRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\FriendRequestRepository.cs",
+              "RelativeToolTip": "SocialApp.Infrastructure\\Repositories\\FriendRequestRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:29:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Notification\\NotificationService.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\UseCase\\Notification\\NotificationService.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Notification\\NotificationService.cs",
+              "RelativeToolTip": "SocialApp.Application\\UseCase\\Notification\\NotificationService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:06:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FriendController.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\FriendController.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Controllers\\FriendController.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\FriendController.cs",
+              "RelativeToolTip": "SocialApp.API\\Controllers\\FriendController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:26:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "SocialApp.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:10:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "SocialApp.API\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:57:46.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostUseCase.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Post\\PostUseCase.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\UseCase\\Post\\PostUseCase.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Post\\PostUseCase.cs",
+              "RelativeToolTip": "SocialApp.Application\\UseCase\\Post\\PostUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:16:42.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavedPostController.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\SavedPostController.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Controllers\\SavedPostController.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\SavedPostController.cs",
+              "RelativeToolTip": "SocialApp.API\\Controllers\\SavedPostController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA8wDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:21:38.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "SocialApp.API\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:33:00.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCommentRequestDTO.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\CreateCommentRequestDTO.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\DTOs\\CreateCommentRequestDTO.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\CreateCommentRequestDTO.cs",
+              "RelativeToolTip": "SocialApp.Application\\DTOs\\CreateCommentRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:56:42.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FriendService.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Friend\\FriendService.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\UseCase\\Friend\\FriendService.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Friend\\FriendService.cs",
+              "RelativeToolTip": "SocialApp.Application\\UseCase\\Friend\\FriendService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:23:59.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFriendRequestRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\IFriendRequestRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Interfaces\\IFriendRequestRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\IFriendRequestRepository.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Interfaces\\IFriendRequestRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:28:20.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFriendService.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\Interfaces\\IFriendService.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\Interfaces\\IFriendService.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\Interfaces\\IFriendService.cs",
+              "RelativeToolTip": "SocialApp.Application\\Interfaces\\IFriendService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:36:50.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Entities\\Notification.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:06:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Infrastructure\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "SocialApp.Infrastructure\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:30:17.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FriendRequestNotificationDTO.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\FriendRequestNotificationDTO.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\DTOs\\FriendRequestNotificationDTO.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\FriendRequestNotificationDTO.cs",
+              "RelativeToolTip": "SocialApp.Application\\DTOs\\FriendRequestNotificationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:25:14.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\UseCase\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\UseCase\\Auth\\AuthService.cs",
+              "RelativeToolTip": "SocialApp.Application\\UseCase\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:27:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "SocialApp.API\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:37:18.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FriendStatus.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Enums\\FriendStatus.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Enums\\FriendStatus.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Enums\\FriendStatus.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Enums\\FriendStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:11:02.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NoficationType.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Enums\\NoficationType.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Enums\\NoficationType.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Enums\\NoficationType.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Enums\\NoficationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:39:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Entities\\Post.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:41:43.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Interfaces\\IPostRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:29:01.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Interfaces\\INotificationRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\INotificationRepository.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Interfaces\\INotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:09:31.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "RelativeToolTip": "SocialApp.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:09:53.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnfriendDTO.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\UnfriendDTO.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\DTOs\\UnfriendDTO.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\UnfriendDTO.cs",
+              "RelativeToolTip": "SocialApp.Application\\DTOs\\UnfriendDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:21:36.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FriendRequest.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Entities\\FriendRequest.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Entities\\FriendRequest.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Entities\\FriendRequest.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Entities\\FriendRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:10:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SocialApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SocialApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:51:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SocialApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:37:15.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserInfoDTO.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\UserInfoDTO.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\DTOs\\UserInfoDTO.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\UserInfoDTO.cs",
+              "RelativeToolTip": "SocialApp.Application\\DTOs\\UserInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:34:29.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SocialApp.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SocialApp.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:54:12.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SocialApp.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "SocialApp.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:52:19.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DI.cs",
+              "DocumentMoniker": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\DI.cs",
+              "RelativeDocumentMoniker": "SocialApp.Infrastructure\\DI.cs",
+              "ToolTip": "D:\\dddoan\\doanAI\\react_dotnet_social\\backend\\SocialApp.Infrastructure\\DI.cs",
+              "RelativeToolTip": "SocialApp.Infrastructure\\DI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:07:09.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

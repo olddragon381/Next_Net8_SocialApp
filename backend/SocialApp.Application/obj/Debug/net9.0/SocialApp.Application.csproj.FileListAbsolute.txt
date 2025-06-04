@@ -1,0 +1,16 @@
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\bin\Debug\net9.0\SocialApp.Application.deps.json
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\bin\Debug\net9.0\SocialApp.Application.dll
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\bin\Debug\net9.0\SocialApp.Application.pdb
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\bin\Debug\net9.0\SocialApp.Domain.dll
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\bin\Debug\net9.0\SocialApp.Domain.pdb
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.csproj.AssemblyReference.cache
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.AssemblyInfoInputs.cache
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.AssemblyInfo.cs
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.csproj.CoreCompileInputs.cache
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.sourcelink.json
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialAp.561BBA0B.Up2Date
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.dll
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\refint\SocialApp.Application.dll
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\SocialApp.Application.pdb
+D:\dddoan\doanAI\react_dotnet_social\backend\SocialApp.Application\obj\Debug\net9.0\ref\SocialApp.Application.dll
